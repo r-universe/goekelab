@@ -8,3 +8,8 @@
 	url = https://github.com/goekelab/bambu
 	shallow = true
 	registered = true
+[submodule "proActiv"]
+	path = proActiv
+	url = https://github.com/goekelab/proactiv
+	shallow = true
+	registered = true
